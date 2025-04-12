@@ -1,0 +1,21 @@
+Disease,Doctor to Consult,Google Maps Search Link
+Allergy,Allergist/Immunologist,https://www.google.com/maps/search/Allergist+near+me
+Anemia,Hematologist,https://www.google.com/maps/search/Hematologist+near+me
+Asthma,Pulmonologist,https://www.google.com/maps/search/Pulmonologist+near+me
+COVID-19,Infectious Disease Specialist,https://www.google.com/maps/search/Infectious+Disease+Specialist+near+me
+Dengue,Infectious Disease Specialist,https://www.google.com/maps/search/Infectious+Disease+Specialist+near+me
+Diabetes,Endocrinologist,https://www.google.com/maps/search/Endocrinologist+near+me
+Dysentery,Gastroenterologist,https://www.google.com/maps/search/Gastroenterologist+near+me
+Flu,General Physician,https://www.google.com/maps/search/General+Physician+near+me
+Food Poisoning,Gastroenterologist,https://www.google.com/maps/search/Gastroenterologist+near+me
+Heart Attack,Cardiologist,https://www.google.com/maps/search/Cardiologist+near+me
+Hepatitis,Hepatologist or Gastroenterologist,https://www.google.com/maps/search/Hepatologist+OR+Gastroenterologist+near+me
+Hyperthyroidism,Endocrinologist,https://www.google.com/maps/search/Endocrinologist+near+me
+Malaria,Infectious Disease Specialist,https://www.google.com/maps/search/Infectious+Disease+Specialist+near+me
+Meningitis,Neurologist or Infectious Disease Specialist,https://www.google.com/maps/search/Neurologist+OR+Infectious+Disease+Specialist+near+me
+Migraine,Neurologist,https://www.google.com/maps/search/Neurologist+near+me
+Pneumonia,Pulmonologist,https://www.google.com/maps/search/Pulmonologist+near+me
+Rheumatoid Arthritis,Rheumatologist,https://www.google.com/maps/search/Rheumatologist+near+me
+Tonsillitis,ENT Specialist (Otolaryngologist),https://www.google.com/maps/search/ENT+Specialist+near+me
+Tuberculosis,Pulmonologist or Infectious Disease Specialist,https://www.google.com/maps/search/Pulmonologist+OR+Infectious+Disease+Specialist+near+me
+Urinary Tract Infection,Urologist or Nephrologist,https://www.google.com/maps/search/Urologist+OR+Nephrologist+near+me
